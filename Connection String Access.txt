@@ -1,0 +1,8 @@
+
+• Link :
+
+mongodb+srv://BeeNkouka:MqOxlzIuw9WyJk2E@mongotest.ldmzp.mongodb.net/
+
+• Password :
+
+MqOxlzIuw9WyJk2E
